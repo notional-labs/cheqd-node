@@ -99,9 +99,7 @@ Based on the options considerations above and an analysis of development require
 
 ### CLI components overview
 
-![Cosmos CLI components](../../.gitbook/assets/cli_components_cosmos.png)
-
-![VDR CLI components](../../.gitbook/assets/cli_components_vdr.png)
+REPLACE PNG IMAGES
 
 ## Consequences
 
