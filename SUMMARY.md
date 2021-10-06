@@ -35,6 +35,7 @@
   * [ADR 005: Genesis parameters](architecture/adr-list/adr-005-genesis-parameters.md)
   * [ADR 006: Community tax](architecture/adr-list/adr-006-community-tax.md)
   * [ADR 007: Revocation registry](architecture/adr-list/adr-007-revocation-registry.md)
+  * [ADR 009: Importing/exporting mnemonic keys from Cosmos](architecture/adr-list/adr-009-mnemonic-keys-cosmos.md)
 
 ## Contributor Guidelines <a id="contributing"></a>
 

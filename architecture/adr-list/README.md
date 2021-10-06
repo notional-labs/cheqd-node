@@ -16,6 +16,7 @@ description: >-
 ## Proposed
 
 1. [ADR 002: **Identity entities and transactions**](adr_002_identity_transactions.md)
+2. [ADR 009: **Importing/exporting mnemonic keys from Cosmos**](adr-009-mnemonic-keys-cosmos.md)
 
 ## Draft
 
